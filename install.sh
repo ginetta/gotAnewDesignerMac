@@ -12,7 +12,7 @@ notify 'in order to be up and running as quickly as possible'
 # checks if apple ID was used as argument, if not ask for it
 if [ $# -eq 0 ]
   then
-    notify ' Enter your AppleID followed by [ENTER]:'
+    notify ' Enter your AppleID followed by [ENTER ↵]:'
     read APPLEID
 else
     APPLEID=$1
