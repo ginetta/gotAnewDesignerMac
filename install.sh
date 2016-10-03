@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Set the Application folder to the User
-# export HOMEBREW_CASK_OPTS="--appdir=~/Applications"
+export HOMEBREW_CASK_OPTS="--appdir=~/Applications"
 
 # checks if apple ID was used as argument, if not ask for it
 if [ $# -eq 0 ]
