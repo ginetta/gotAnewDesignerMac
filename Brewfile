@@ -58,16 +58,16 @@ cask 'rightfont'
 cask 'fontstand'
 # try expensive fonts for 1h
 
-# cask 'bartender'
+cask 'bartender'
 # hide some icons from the OSX toolbar
 
-mas 'DoublePane', id: 409737246
-# rearrange your OSX windows with shortcuts
+# mas 'DoublePane', id: 409737246
+# rearrange your OSX windows with shortcuts (make sure to buy it first)
 
 cask 'the-unarchiver'
 # better Unarchiver for OSX (support more formats but works the same)
 
-cask 'tunnelbear'
+# cask 'tunnelbear'
 # VPN
 
 # extends quicklook so it supports more formats
@@ -109,9 +109,6 @@ cask 'google-drive'
 
 cask 'transmit'
 # ftp
-
-cask 'transmission'
-# torrents
 
 #
 # Collaboration
