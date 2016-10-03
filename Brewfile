@@ -136,7 +136,7 @@ cask 'imageoptim'
 cask 'magicavoxel'
 # Voxel art
 
-cask 'grafx'
+cask 'aseprite'
 # pixelart editor
 
 cask 'invisionsync'
