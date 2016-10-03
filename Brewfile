@@ -40,8 +40,8 @@ cask 'caffeine'
 cask 'disk-inventory-x'
 # helps you to find large files
 
-cask 'hyperterm'
-# nicer looking and hackable terminal
+cask 'iterm2'
+# nicer terminal
 
 cask 'liteicon'
 # easily change you system and app icons
@@ -94,9 +94,6 @@ cask 'atom'
 
 cask 'haroopad'
 # good markdown editor
-
-# mas 'iA Writer', id: 775737590
-# distraction free text editor
 
 # mas 'MindNode', id: 992076693
 # great mind map tool
