@@ -11,7 +11,7 @@ visit the [original project](https://github.com/meodai/gotAnewDesignerMac)
 ## 💻 Installation
 - Open `Brewfile` with TextEdit and make sure to comment out all the Apps you don't want
 - Open Terminal app.
-- type `CD ` (with a space) and drag the `gotAnewDesingerMac` folder to the Tarminal app
-- hit the [ENTER ↵] key
-- type: `. install.sh` followed by [ENTER ↵] **don't forget the `.` before install**
-- Follow the instructions in the terminal. **you will by promted your appleID password and your system password later**
+- Type `CD ` (with a space) and drag the `gotAnewDesingerMac` folder to the Tarminal app
+- Hit the [ENTER ↵] key
+- Type: `. install.sh` followed by [ENTER ↵] **don't forget the `.` before install**
+- Follow the instructions in the terminal. **you will be promted your appleID password and your system password later**
